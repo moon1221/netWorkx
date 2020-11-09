@@ -77,7 +77,6 @@ if __name__=="__main__":
     '''
     '''
     邻接矩阵和共现矩阵的算法网上也有，不过我这边没用到这个算法。
-    不过应该也可以自己写，应该也不难的
     '''
     elem_list=getData("SELECT Source,Target,Weight FROM mix6 WHERE Weight >=1")
     '''
